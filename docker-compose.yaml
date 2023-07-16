@@ -1,0 +1,8 @@
+services:
+  spigot:
+    build: .
+    image: registry.digitalocean.com/warlock-containers/minecraft_server:1.0.0
+    ports:
+      - "5000:25565"
+    stdin_open: true
+    tty: true 

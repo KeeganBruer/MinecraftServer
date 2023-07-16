@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 71.65.154.134
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1689272710968
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1689463075794
+  login: 1689463065592
+money: '0'
+last-account-name: xandaiyo
+logoutlocation:
+  world: 1ba53bbd-41d4-4a87-ba61-6ba4859f7dd5
+  world-name: world_nether
+  x: 240.04290163137443
+  y: 62.0179285110597
+  z: -219.667701680779
+  yaw: -55.56206512451172
+  pitch: 15.749143600463867
+lastlocation:
+  world: 1ba53bbd-41d4-4a87-ba61-6ba4859f7dd5
+  world-name: world_nether
+  x: -542.7129826676994
+  y: 17.0
+  z: 334.7124796456958
+  yaw: 149.164794921875
+  pitch: -1.8004364967346191

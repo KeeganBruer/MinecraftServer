@@ -1,0 +1,10 @@
+POST http://localhost:8080/stop
+###
+
+POST http://localhost:8080/stopServer
+###
+
+POST http://localhost:8080/startServer
+
+###
+POST http://localhost:8080/backup
